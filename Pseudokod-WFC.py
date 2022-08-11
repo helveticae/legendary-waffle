@@ -50,7 +50,7 @@ row1 = ([x],[x],[x])
 row2 = ([x],[l],[x])
 row3 = ([x],[l],[x])
 
-# min förutsägelse är att a och l sällan kommer att genereras på samma vektor
+# min förutsägelse är att o och l sällan kommer att genereras på samma vektor
 # eftersom x används som "avskiljare" och det finns få scenarion på 3*3 grid
 
 # Med nuvarande regler, hur många utfall finns?
