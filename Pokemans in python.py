@@ -76,7 +76,7 @@ ad1 = add_one_to_input
 rm1 = remove_one_from_input
 mul = multiply_self_once
 tri = tripple
-Dub = double
+dub = double
 mu2 = multiply_self_twice
 spl = split_even_once
 
