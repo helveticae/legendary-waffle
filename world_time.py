@@ -1,5 +1,3 @@
-import sqlite3
-
 class WorldTime:
     """
     ~ Tempus edax rerum.
